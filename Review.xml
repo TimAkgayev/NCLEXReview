@@ -175,8 +175,14 @@ Elevated T-waves
 
 <cushing-disease>
 Overproduction of corticosteroids, mainly cortisol or hypercortisolism. 
-<cortisol> Associated with an incrase in glucose levels, increased sodium levels, decreased potassium and calcium levels. </cortisol>
+Cortisol is associated with an incrase in glucose levels, increased sodium levels, decreased potassium and calcium levels. 
 </cushing-disease>
 
+<corticosteroid>
+Increases levels of glucose, increases sodium levels, decreases potassium and calcium levels
+</corticosteroid>
 
 
+<liver-failure>
+Underproduction of bicarbonate
+</liver-failure>
